@@ -1,0 +1,24 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "a space to use & test node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaskfullofcoffee/node_tut.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "boilerplate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flaskfullofcoffee/node_tut/issues"
+  },
+  "homepage": "https://github.com/Flaskfullofcoffee/node_tut#readme"
+}
